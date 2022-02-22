@@ -1,0 +1,9 @@
+Project Repositories:
+
+Mobile Application Project:
+https://github.com/Killian-H/Mobile-Application-Project
+https://github.com/Killian-H/Mobile-Application-Project-Server
+
+
+Web Game GitHub:
+https://github.com/Killian-H/tcss_491_project
